@@ -1,5 +1,9 @@
-# Notas
+# Repositorio de Custom hooks en TypeScript para React
 
-Este repositorio contiene mis primeros custom hooks para ayudarme a reutilizar código y mejorarlo en un futuro.
-Nace con la voluntad de tener una librería propia de código para implantarlo fácilmente en futuros proyectos.
-
+### useCounter
+### useFetch
+### useForm
+    & validateFnc: una función de validación personalizada que se ejecuta en el evento de envío del formulario.
+### useOutsideClick
+### usePasswordValidador
+### useWindowSize
