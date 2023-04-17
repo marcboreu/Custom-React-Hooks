@@ -8,7 +8,7 @@ El hook useFetch toma un parámetro obligatorio:
 
 url (string): La URL de la API a la que se va a hacer la solicitud.
 
-##Valor de retorno
+## Valor de retorno
 El hook useFetch devuelve un objeto con las siguientes propiedades:
 
 data (T | null): Los datos obtenidos de la solicitud. Pueden ser null si la solicitud aún no ha finalizado.
@@ -16,7 +16,9 @@ loading (boolean): Un indicador booleano que representa si la solicitud está en
 error (string | null): Un mensaje de error en caso de que ocurra un error durante la solicitud, o null si no hay errores.
 
 ## Ejemplo:
+
 ```
+
 import { useFetch } from './useFetch';
 
 const MyComponent = () => {
