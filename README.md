@@ -7,3 +7,5 @@
 ### useOutsideClick
 ### usePasswordValidador
 ### useWindowSize
+### useIntersectionObserver
+### usePortal
